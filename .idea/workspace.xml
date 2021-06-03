@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07e15ecd-cc67-4a1a-b774-d75cd73b05dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/foxmula/assignment2/Frequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/foxmula/assignment2/TraverseHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.netbeans_automatic_build" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +21,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/java/com/foxmula/assignment3" />
   </component>
   <component name="ProjectId" id="1tCPwZkibU5WsLqQJsUJ8Ys63Dq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,20 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Frequency">
-    <configuration name="CheckEleInSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.foxmula.assignment2.CheckEleInSet" />
-      <module name="BackendJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.foxmula.assignment2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.FrequencySort">
     <configuration name="Frequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.foxmula.assignment2.Frequency" />
       <module name="BackendJava" />
@@ -62,12 +48,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TraverseHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.foxmula.assignment2.TraverseHashSet" />
+    <configuration name="FrequencySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.foxmula.assignment3.FrequencySort" />
       <module name="BackendJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.foxmula.assignment2.*" />
+          <option name="PATTERN" value="com.foxmula.assignment3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,8 +61,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TraverseTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.foxmula.assignment2.TraverseTreeSet" />
+    <configuration name="InvalidNumberCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.foxmula.assignment3.InvalidNumberCheck" />
+      <module name="BackendJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.foxmula.assignment3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TraverseHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.foxmula.assignment2.TraverseHashSet" />
       <module name="BackendJava" />
       <extension name="coverage">
         <pattern>
@@ -103,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FrequencySort" />
+        <item itemvalue="Application.InvalidNumberCheck" />
         <item itemvalue="Application.Frequency" />
         <item itemvalue="Application.TraverseHashSet" />
         <item itemvalue="Application.TwoNumberSum" />
-        <item itemvalue="Application.TraverseTreeSet" />
-        <item itemvalue="Application.CheckEleInSet" />
       </list>
     </recent_temporary>
   </component>
@@ -132,5 +131,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
